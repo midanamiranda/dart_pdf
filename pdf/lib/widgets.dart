@@ -15,6 +15,7 @@
  */
 
 export 'package:barcode/barcode.dart';
+export 'package:syncfusion_flutter_charts/charts.dart';
 
 export 'src/widgets/annotations.dart';
 export 'src/widgets/barcode.dart';
